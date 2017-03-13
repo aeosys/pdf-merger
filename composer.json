@@ -1,13 +1,13 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "aeosys/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
-        "itbz/fpdi": "dev-master"
+        "setasign/fpdi-tcpdf": "1.6.1"
     },
     "authors": [
         {
-            "name": "Paul Clegg",
-            "email": "paul@clegginabox.co.uk"
+            "name": "Antti Nevala",
+            "email": "antti.nevala@protacon.com"
         }
     ],
     "autoload": {
